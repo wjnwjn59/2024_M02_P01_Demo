@@ -1,0 +1,9 @@
+streamlit==1.34.0
+scikit-learn==1.5.1
+numpy>=1.18.5
+tqdm>=4.64.0
+Pillow>=7.1.2
+pandas>=1.1.4
+gdown==5.2.0
+nltk==3.8.2
+htbuilder==0.6.2
