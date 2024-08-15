@@ -5,5 +5,5 @@ tqdm>=4.64.0
 Pillow>=7.1.2
 pandas>=1.1.4
 gdown==5.2.0
-nltk==3.8.2
+git+https://github.com/nltk/nltk.git@3.8.2
 htbuilder==0.6.2
