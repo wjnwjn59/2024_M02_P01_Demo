@@ -44,7 +44,7 @@ def main():
     example_button = st.button('Use an example')
 
     if example_button:
-        inference_and_display_result('I love talking about you')
+        inference_and_display_result('I love talking to you')
     elif uploaded_msg:
         inference_and_display_result(uploaded_msg)
 
